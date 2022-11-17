@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nick</h1>
 <h3 align="center">A passionate developer from Germany</h3>
 
-- 🌱 I’m currently learning **JavaScript, Docker, MySQL, PHP, CSS, Tailwind**
+- 🌱 I’m currently learning **JavaScript, Docker, MySQL, PHP, HTML, CSS, Tailwind**
 
 - ⚡ Fun fact **Just work in the night or for the right company**
 
