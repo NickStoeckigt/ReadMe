@@ -14,5 +14,4 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NickStoeckigt&theme=dark)](https://git.io/streak-stats)
 
 ### Watch my contribution graph get eaten by the snake 🐍
-
 ![nickstoeckigt snake gif](https://github.com/NickStoeckigt/NickStoeckigt/blob/output/github-contribution-grid-snake.svg)
