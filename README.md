@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2016<br>📚 I'm currently learning TailwindCSS and Laravel<br>🎯 Goals: Just become better than the other day<br>🎲 Fun fact: Bugs are undocumented Features</p>
+<p align="left">✨ Creating bugs since 2016<br>🎯 Goals: Just become better than the other day<br>🎲 Fun fact: Bugs are undocumented Features</p>
 
 ###
 
