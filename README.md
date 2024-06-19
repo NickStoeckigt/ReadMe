@@ -82,6 +82,6 @@
 <h2 align="left">Watch my contribution graph get eaten by the snake 🐍</h2>
 <!-- ![nickstoeckigt snake gif](https://github.com/NickStoeckigt/NickStoeckigt/blob/output/github-contribution-grid-snake.svg) -->
 <br clear="both">
-<img src="https://raw.githubusercontent.com/NickStoeckigt/NickStoeckigt/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/NickStoeckigt/NickStoeckigt/output/snake.svg" alt="Snake animation" />
 
 ###
